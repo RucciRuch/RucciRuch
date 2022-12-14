@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @RucciRuch
-- 👀 I’m interested in becoming a DevOps Engineer
-- 🌱 I’m currently learning about Software Development Lifecycle 
+- 👋 Hi, I’m @RucciRuch 
 - 💞️ I’m looking to collaborate on a wide variety of projects
 - 📫 How to reach me enigma1028@gmail.com
 
